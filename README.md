@@ -8,6 +8,7 @@ This repository contains my LeetCode solutions solved using Java as part of my 1
 2. Palindrome Number
 3. Merge Sorted Array
 4. Sorted Squares
+5. Valid Parentheses
 
 ## Goals
 
