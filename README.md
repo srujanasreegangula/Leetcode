@@ -9,6 +9,7 @@ This repository contains my LeetCode solutions solved using Java as part of my 1
 3. Merge Sorted Array
 4. Sorted Squares
 5. Valid Parentheses
+6. Add Two Numbers
 
 ## Goals
 
