@@ -10,6 +10,8 @@ This repository contains my LeetCode solutions solved using Java as part of my 1
 4. Sorted Squares
 5. Valid Parentheses
 6. Add Two Numbers
+7. earliest-finish-time-for-land-and-water-rides-i
+8. earliest-finish-time-for-land-and-water-rides-ii
 
 ## Goals
 
