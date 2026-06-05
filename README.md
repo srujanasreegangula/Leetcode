@@ -13,6 +13,20 @@ This repository contains my LeetCode solutions solved using Java as part of my 1
 7. earliest-finish-time-for-land-and-water-rides-i
 8. earliest-finish-time-for-land-and-water-rides-ii
 9. minimum-cost-of-buying-candies-with-discount
+10. 3753. Total Waviness of Numbers in Range I
+    3754. 3753. Total Waviness of Numbers in Range II
+Solved
+Hard
+Topics
+premium lock icon
+Companies
+
+Solved
+Hard
+Topics
+premium lock icon
+Companies
+
 
 ## Goals
 
