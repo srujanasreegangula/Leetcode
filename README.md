@@ -15,17 +15,6 @@ This repository contains my LeetCode solutions solved using Java as part of my 1
 9. minimum-cost-of-buying-candies-with-discount
 10.Total Waviness of Numbers in Range I
 11. Total Waviness of Numbers in Range II
-Solved
-Hard
-Topics
-premium lock icon
-Companies
-
-Solved
-Hard
-Topics
-premium lock icon
-Companies
 
 
 ## Goals
